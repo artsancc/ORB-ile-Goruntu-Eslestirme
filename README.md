@@ -2,7 +2,7 @@
 
 Bu proje, OpenCV kütüphanesini kullanarak iki görüntü arasındaki benzerlikleri saptamak için ORB algoritmasını kullanır. Algoritma, görüntülerdeki anahtar noktaları bulur, bunları tanımlar ve birbirleriyle eşleştirerek görsel bir çıktı üretir.
 
-# Proje Özeti
+# Proje Hakkında
 
 Hız: 
 ORB kullanarak SIFT'e göre çok daha hızlı sonuç üretir.
