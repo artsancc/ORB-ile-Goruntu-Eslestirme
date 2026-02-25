@@ -13,6 +13,12 @@ Verimlilik:
 Görselleştirme: 
 Eşleşen noktaları renkli çizgilerle bağlayarak kullanıcıya sunar.
 
+# Kullanılan Kütüphaneler
+
+OpenCV
+
+Numpy
+
 # Nasıl Çalışır?
 
 Görüntü Yükleme ve Hazırlık:
