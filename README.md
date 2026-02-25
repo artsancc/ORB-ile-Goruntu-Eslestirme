@@ -13,7 +13,7 @@ Verimlilik:
 Görselleştirme: 
 Eşleşen noktaları renkli çizgilerle bağlayarak kullanıcıya sunar.
 
-# Çalışma Mantığı
+# Nasıl Çalışır?
 
 Görüntü Yükleme ve Hazırlık:
 Görüntüler renkli okunur, ancak hesaplama verimliliği için uygulamaya alınmadan önce gri tonlamaya dönüştürülür.
